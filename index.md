@@ -15,7 +15,6 @@
  - Get Suburbs Dropdown
  - Get Areas Dropdown
  
- <br/>
 ## Authentication
 
 Retrieves Access Token and Expiration information that will be used to request private endpoints.
@@ -45,7 +44,6 @@ Retrieves Access Token and Expiration information that will be used to request p
 }
 ``` 
 
-<br/>
 ## Refresh Token
 
 Refresh expired access token.
@@ -74,7 +72,6 @@ Refresh expired access token.
 }
 ``` 
 
-<br/>
 ## Create order
 
 Create Shipper order
@@ -200,7 +197,6 @@ Create Shipper order
 }
 ``` 
 
-<br/>
 ## Origin Area Dropdown
 
 Get origin area dropdown.
@@ -259,7 +255,6 @@ Get origin area dropdown.
 }
 ``` 
 
-<br/>
 ## Destination Area Dropdown
 
 Get destination area dropdown.
@@ -318,7 +313,6 @@ Get destination area dropdown.
 }
 ``` 
 
-<br/>
 ## Get Order Detail
 
 Get shipper order detail.
@@ -537,7 +531,6 @@ No query string needed.
 }
 ``` 
 
-<br/>
 ## Get Order List
 
 Get its own order list.
